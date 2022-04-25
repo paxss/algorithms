@@ -3,11 +3,16 @@ Repository with implementation of algorithms on Java or Python
 
 ## Java
 ### PalindromeList
-input:int[] array\
-output: is palindrome&(true/false)
+input:int[ ] array\
+output: is palindrome (true or false)\
+example:
+```
+input: array = [1,2,1]
+output: true
+```
 
 ### TwoSum
-input: int[] **array**, int **target**\
+input: int[ ] **array**, int **target**\
 output: [**i**, **j**]\
 example: 
 ```
