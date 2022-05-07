@@ -44,7 +44,26 @@ input: array = [1,2,1]
 output: true
 ```
 
-### [Two Sum](java/Two Sum)
+### [Reverse Integer](java/ReverseInteger)
+input: int number\
+output: reversed number\
+example 1:
+```
+input: 123
+output: 321
+```
+
+example 2:
+```
+input: -123
+output:-321
+```
+
+In input we have integer number, on output must be reversed number, but if number negative minus always must be before all characters. [This task on leetcode](https://leetcode.com/problems/reverse-integer/)
+
+
+
+### [Two Sum](java/TwoSum)
 input: int[ ] **array**, int **target**\
 output: [**i**, **j**]\
 example: 
