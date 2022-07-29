@@ -14,6 +14,7 @@ output: [5,6,1]
 Similar task is on [leetcode](https://leetcode.com/problems/add-two-numbers/), but here using ListNode, in my algorithm using LinkedList.
 
 ### [Longest Prefix](java/LongestPrefix) 
+(MAVEN)\
 input: String[ ] array\
 output: longest prefix for words in array\
 example:
@@ -25,6 +26,7 @@ output: "fl"
 On input we have string array with words, this code return longest prefix for this words. [Task on leetcode](https://leetcode.com/problems/longest-common-prefix/)
 
 ### [Longest Substring](java/LongestSubstring)
+(MAVEN)\
 input: String string\
 output: length of longest substring\
 example:
@@ -36,6 +38,7 @@ output: 3
 Return length of longest substring without repeating characters, [This task on leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ### [Palindrome List](java/PalindromeList)
+(MAVEN)\
 input:int[ ] array\
 output: is palindrome (true or false)\
 example:
@@ -45,6 +48,7 @@ output: true
 ```
 
 ### [Reverse Integer](java/ReverseInteger)
+(MAVEN)\
 input: int number\
 output: reversed number\
 example 1:
@@ -64,6 +68,7 @@ In input we have integer number, on output must be reversed number, but if numbe
 
 
 ### [Two Sum](java/TwoSum)
+(MAVEN)\
 input: int[ ] **array**, int **target**\
 output: [**i**, **j**]\
 example: 
